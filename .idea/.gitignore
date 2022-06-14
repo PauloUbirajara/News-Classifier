@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/.vs(code)?
+/workspace.xml
+.idea
+*.[x,i]ml
